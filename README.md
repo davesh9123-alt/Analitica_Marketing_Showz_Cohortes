@@ -1,1 +1,1 @@
-# Anal-tica_Marketing_Showz_Cohortes
+# Analitica_Marketing_Showz_Cohortes
