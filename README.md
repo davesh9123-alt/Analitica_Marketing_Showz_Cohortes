@@ -2,6 +2,19 @@
 
 El objetivo de este analisis fue optimizar los gastos de Marketing de la tienda online Showz,  una de las tiendas en línea más populares y confiables a nivel mundial para coleccionistas de figuras de acción.
 
+Tenemos los siguientes datos:
+
+* registros del servidor con datos sobre las visitas a Showz desde enero de 2017 hasta diciembre de 2018;
+* un archivo con los pedidos en este periodo;
+* estadísticas de gastos de marketing.
+
+Vamos a investigar: 
+
+* cómo los clientes usan el servicio;
+* cuándo empiezan a comprar;
+* cuánto dinero aporta cada cliente a la compañía;
+* cuándo los ingresos cubren el costo de adquisición de los clientes.
+
 ## Habilidades Tecnológicas Utilizadas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,7 +39,7 @@ El objetivo de este analisis fue optimizar los gastos de Marketing de la tienda 
 - ¿Cuando los ingresos cubren el costo de adquisicion de los clientes?
 
 
-## === Resultados del analisis de cohortes y la tasa de retencion ===
+## Resultados del analisis de cohortes y la tasa de retencion
 
 El mapa de calor muestra mas claramente como la retencion disminuye a lo largo de los meses siguientes a la primera visita. Hay cohortes que mantienen una retencion mas alta, pero en general disminuyen a lo largo del tiempo. Tambien podemos observar que las primeras cohortes parecen tener una mayor rentecion los primeros meses que las cohortes mas nuevas, al menos en el periodo de tiempo que examinamos. La cohorte de 2017-06 (junio 2017), es decir, la primera cohorte, es la que presenta una mayor rentencion.
 
