@@ -1,6 +1,6 @@
-# Analitica de Marketing en Showz (Analisis de Cohortes)
+# Proyecto S10: Analítica de Marketing en Showz (Análisis de Cohortes)
 
-El objetivo de este analisis fue optimizar los gastos de Marketing de la tienda online Showz,  una de las tiendas en línea más populares y confiables a nivel mundial para coleccionistas de figuras de acción.
+El objetivo de este análisis fue optimizar los gastos de Marketing de la tienda online Showz,  una de las tiendas en línea más populares y confiables a nivel mundial para coleccionistas de figuras de acción.
 
 Tenemos los siguientes datos:
 
